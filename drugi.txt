@@ -1,1 +1,2 @@
 Witamy z drugiego pliku!
+To jest zmiana na branchu dev2.
