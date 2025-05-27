@@ -283,3 +283,4 @@ no_default_groups = true
 skip_install = true
 commands = [["uv", "lock", {replace = "posargs", default = ["-U"], extend = true}]]
 #ZMIANA
+# zmiana testowa Karol 1
